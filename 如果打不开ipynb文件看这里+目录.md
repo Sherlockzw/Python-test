@@ -8,7 +8,7 @@
 
 
 
-
+#### 小贴士
 - 在Github上虽然能够直接加载ipynb文件，但是速度很慢，并且容易加载失败。
 - 利用https://nbviewer.jupyter.org/ 可以快速加载ipynb文件
 如何使用： 
